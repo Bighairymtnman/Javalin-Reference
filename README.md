@@ -32,8 +32,9 @@ A comprehensive guide for Javalin web framework fundamentals, routing, middlewar
 Each section includes practical, well-commented code examples demonstrating implementation and best practices for modern web development.
 
 ## Learning Path
-1. Start with Basics for core web concepts
-2. Move to Advanced for complex features
+1. Start with JavalinElements for core concepts
+2. Move to JavalinBasics for web fundamentals  
+3. Advance to AdvancedJavalin for complex features
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
